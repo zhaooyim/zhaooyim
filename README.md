@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Ryan Zhao 👋
 I am an experienced software engineer with 15 years of expertise in developing applications, testing strategies and automation frameworks as well as CI/CD tools and processes.
 
 My background spans embedded systems, desktop and web applications in the communication and entertainment sectors, as well as quality engineering.
@@ -14,7 +14,7 @@ Building my personal portafolio web site, using React on the frontend and Node.j
 Test automation and Shift Left principles and practices.
 
 ### ⚡ Fun fact
-I love exploring new places alone and record my expriences by taking good photos.
+I love exploring new places alone and recording my expriences by taking good photos.
 
 ### 📫 How to reach me
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/yimian-zhao-8376131a4/), or get in touch [via email](mailto:yimian.zhao@gmail.com)! 
