@@ -20,7 +20,7 @@ I love exploring new places alone and record my expriences by taking good photos
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/yimian-zhao-8376131a4/), or get in touch [via email](mailto:yimian.zhao@gmail.com)! 
 
 ### 📜 Want to know more? 
-[Here's my CV!](https://todo)
+[Here's my CV!](CV.pdf)
 
 -------------
 
